@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Data and Computer scientists</h3>
+<h2 align="center">Data and Computer scientists</h2>
 
 ###
 
