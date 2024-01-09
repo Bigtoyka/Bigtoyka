@@ -41,4 +41,4 @@
 <h2 align="left">I have certificates</h2>
 
 ###
-![Screenshot](Certificate_Python_Karpov_EN_1.png.png)
+![Screenshot](Certificate_Python_Karpov_EN_1.png)
