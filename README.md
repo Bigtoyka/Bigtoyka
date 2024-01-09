@@ -41,3 +41,6 @@
 <h2 align="left">I have certificates</h2>
 
 ###
+
+<br></br>
+![Python Certificate](Certificate Python_Karpov_EN_1.png)
