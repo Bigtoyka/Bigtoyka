@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="center">Data and Computer scientists</h2>
+<h2 align="center">Developer</h2>
 
 ###
 
-<h3 align="center">I want to become a Data and Computer scientists. I want to move forward in this field and then do cool and interesting projects. I am 25 years old, I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h3>
+<h3 align="center">I want to become a Developer. I want to move forward in this field and then do cool and interesting projects.I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h3>
 
 ###
 
-<p align="left">🧠  I'm learning Data since and Python<br>🤝  I'm open to collaborating on different projects, who interest me<br>✉️  You can contact me at bigtoyka@yandex.ru</p>
+<p align="left">🧠  I'm learning Python, SQL, JAVA and more frameworks<br>🤝  I'm open to collaborating on different projects, who interest me<br>✉️  You can contact me at bigtoyka@yandex.ru</p>
 
 ###
 
